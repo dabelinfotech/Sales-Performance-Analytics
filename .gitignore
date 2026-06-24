@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Excel temp/lock files
+~$*.xlsx
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# Editor
+.vscode/
+.idea/
